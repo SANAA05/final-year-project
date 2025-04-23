@@ -29,22 +29,22 @@ About 15 minutes to set up
 # 🚀 Quick Setup Guide
 Step 1: Get the Files
 
-'''bash
+```bash
 git clone https://github.com/your-username/sign-language-translator.git
 
 cd sign-language-translator
-'''
+```
 Step 2: Install What You Need
 
-'''bash
+```bash
 pip install opencv-python numpy tensorflow
-'''
+```
 
 Step 3: Run It!
 
-'''bash
+```bash
 python main.py
-'''
+```
 
 ## 🔍 Want to Improve It?
 Here are some easy ideas:
