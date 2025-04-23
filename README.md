@@ -4,27 +4,27 @@ A beginner-friendly project that helps bridge communication gaps by converting h
 
 ##  📌  What This Project Does
 
-Turns your computer's camera into a sign language translator
+-Turns your computer's camera into a sign language translator
 
-Recognizes ASL (American Sign Language) alphabets and common gestures
+-Recognizes ASL (American Sign Language) alphabets and common gestures
 
-Shows the translated words on screen instantly
+-Shows the translated words on screen instantly
 
 ##  💻How It Works (Simplified)
-Your webcam records your hand movements
+-Your webcam records your hand movements
 
-The program identifies which sign you're making
+-The program identifies which sign you're making
 
-It matches the sign to letters/words in its database
+-It matches the sign to letters/words in its database
 
-The translation appears on your screen
+-The translation appears on your screen
 
 # 🛠️ What You'll Need to Run It
-Any laptop/computer with a webcam
+-Any laptop/computer with a webcam
 
-Basic Python knowledge (but ready-to-use code is provided)
+-Basic Python knowledge (but ready-to-use code is provided)
 
-About 15 minutes to set up
+-About 15 minutes to set up
 
 # 🚀 Quick Setup Guide
 Step 1: Get the Files
@@ -49,10 +49,10 @@ python main.py
 ## 🔍 Want to Improve It?
 Here are some easy ideas:
 
-Add more signs beyond just the alphabet
+*Add more signs beyond just the alphabet
 
-Make it work with smartphone cameras
+*Make it work with smartphone cameras
 
-Add voice output so it can speak the translations
+*Add voice output so it can speak the translations
 
-Create a prettier interface
+*Create a prettier interface
