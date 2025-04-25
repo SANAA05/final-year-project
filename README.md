@@ -2,7 +2,7 @@
 ## Project Overview
 A beginner-friendly project that helps bridge communication gaps by converting hand signs to text in real-time using your webcam
 
-##  📌  What This Project Does
+##    What This Project Does
 
 -Turns your computer's camera into a sign language translator
 
@@ -10,7 +10,7 @@ A beginner-friendly project that helps bridge communication gaps by converting h
 
 -Shows the translated words on screen instantly
 
-##  💻How It Works (Simplified)
+##  How It Works (Simplified)
 -Your webcam records your hand movements
 
 -The program identifies which sign you're making
@@ -19,14 +19,14 @@ A beginner-friendly project that helps bridge communication gaps by converting h
 
 -The translation appears on your screen
 
-# 🛠️ What You'll Need to Run It
+# What You'll Need to Run It
 -Any laptop/computer with a webcam
 
 -Basic Python knowledge (but ready-to-use code is provided)
 
 -About 15 minutes to set up
 
-# 🚀 Quick Setup Guide
+#  Setup Guide
 Step 1: Get the Files
 
 ```bash
